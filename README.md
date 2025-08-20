@@ -3,7 +3,7 @@ This is my personal portfolio website built using **HTML**. It showcases my skil
 
 ## 🔗 Live Website
 
-[View Portfolio] dca69e3#commitcomment-164300828
+[View Portfolio]https://github.com/MaNali07d/My-personal-Portfolio-website.git
 
 ## 🛠️ Technologies Used
 
